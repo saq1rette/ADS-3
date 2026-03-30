@@ -1,3 +1,5 @@
+// Copyright 2026 Student
+
 #include <cstdint>
 #include "alg.h"
 
